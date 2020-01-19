@@ -1,4 +1,4 @@
 import: yurilaaziz/travis-minikube:.travis.yml@master 
 script:
-- echo testing  2
+- echo testing  3
 - kubectl get nodes -o wide   
